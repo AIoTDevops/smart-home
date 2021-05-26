@@ -29,6 +29,12 @@
 ## Outdoor Camera
 
 
+| Brand      | Price | 
+| :---        |    :----:   | 
+| Bosch      | 624 USD       |
+| Xiaomi   |  259 CNY        |
+
+
 ### Bosch
 
 
@@ -44,6 +50,18 @@
 
 
 ## Motion Detector
+
+
+
+
+| Brand      | Price | 
+| :---        |    :----:   | 
+| Bosch      | 83 USD       |
+| Xiaomi   |  399 CNY        |
+| Xiaomi   |  89 CNY        |
+
+
+
 
 
 ### Bosch
@@ -64,6 +82,16 @@
 
 ## Switch
 
+
+| Brand      | Price | 
+| :---        |    :----:   | 
+| Bosch      | 114 USD       |
+| Xiaomi   |  399 CNY        |
+| Xiaomi   |  89 CNY        |
+
+
+
+
 ### Bosch
 - [Bosch Smart Home Universal Switch - Control The Bosch Smart Home System Without app or Smartphone](https://www.amazon.com/Bosch-Smart-Universal-Switch-8750000372/dp/B075QKF6T8/ref=sr_1_5?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-5)
 
@@ -71,11 +99,21 @@
 
 ### Xiaomi Aqara
 
-- [绿米Aqara 网关M1S](https://item.jd.com/10022937509334.html)
+- [绿米Aqara 智能墙壁开关](https://item.jd.com/10023338254126.html)
+- [绿米Aqara 智能墙壁开关H1 Pro](https://item.jd.com/10020344135209.html)
 
 
 
 ## Thermostat
+
+| Brand      | Price | 
+| :---        |    :----:   | 
+| Bosch      | 114 USD       |
+| Xiaomi   |  399 CNY        |
+| Xiaomi   |  89 CNY        |
+
+
+
 
 
 ### Bosch
