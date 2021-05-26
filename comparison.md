@@ -27,7 +27,7 @@
 ### Xiaomi
 
 
-[xiaovv户外云台摄像机 2K升级版](https://www.xiaomiyoupin.com/detail?gid=130270&spmref=YouPinPC.$SearchFilter$1.search_list.4.50883202&last_scmv2=3001.21.1:zero-2:default-3:default-4:zero-5:zero-6:zero-7:zero.0.0&scmv2_num=0#!)
+- [xiaovv户外云台摄像机 2K升级版](https://www.xiaomiyoupin.com/detail?gid=130270&spmref=YouPinPC.$SearchFilter$1.search_list.4.50883202&last_scmv2=3001.21.1:zero-2:default-3:default-4:zero-5:zero-6:zero-7:zero.0.0&scmv2_num=0#!)
 
 
 
