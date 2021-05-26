@@ -86,8 +86,8 @@
 | Brand      | Price | 
 | :---        |    :----:   | 
 | Bosch      | 114 USD       |
-| Xiaomi   |  399 CNY        |
-| Xiaomi   |  89 CNY        |
+| Xiaomi   |  579 CNY        |
+| Xiaomi   |  539 CNY        |
 
 
 
@@ -108,9 +108,10 @@
 
 | Brand      | Price | 
 | :---        |    :----:   | 
-| Bosch      | 114 USD       |
-| Xiaomi   |  399 CNY        |
-| Xiaomi   |  89 CNY        |
+| Bosch      | 132 USD       |
+| Bosch      | 103 USD       |
+| Xiaomi   |  79 CNY        |
+| Xiaomi   |  899 CNY        |
 
 
 
