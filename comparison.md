@@ -1,9 +1,14 @@
 ##  Indoor Camera
 
-Bosch | Xiaomi
------------- | -------------
- 220 GBP |  199 CNY
- |  249 CNY
+
+
+| Brand      | Price | 
+| :---        |    :----:   | 
+| Bosch      | 220 GBP       |
+| Xiaomi   |  199 CNY        | 
+| Xiaomi   | 249 CNY        | 
+
+
 
 
 ### Bosch
