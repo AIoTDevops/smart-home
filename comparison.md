@@ -2,11 +2,11 @@
 
 
 
-| Brand      | Price | 
-| :---        |    :----:   | 
-| Bosch      | 220 GBP       |
-| Xiaomi   |  199 CNY        | 
-| Xiaomi   | 249 CNY        | 
+| Brand      | Price | Link |
+| :---        |    :----:   | :----: |
+| Bosch      | 220 GBP       |[Bosch Smart Home WiFi Indoor Camera (360° rotatable, CCTV with Recording Function, for Indoor use, can be Controlled via app/Mobile Phone - Compatible with Amazon Alexa)](https://www.amazon.com/Bosch-Smart-Home-8750000983-Indoor/dp/B07GYX7TNM/ref=sr_1_8?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-8) |
+| Xiaomi   |  199 CNY        |[xiaovv智能全景摄像机](https://www.xiaomiyoupin.com/detail?gid=130291&spmref=YouPinPC.$SearchFilter$1.search_list.10.70407633&last_scmv2=3001.21.1:zero-2:default-3:default-4:zero-5:zero-6:zero-7:zero.0.0&scmv2_num=0#!) |
+| Xiaomi   | 249 CNY        |[小米智能摄像机 云台版2K](https://www.xiaomiyoupin.com/detail?gid=121914&spmref=YouPinPC.$SearchFilter$1.search_list.2.85174979&last_scmv2=3001.21.1:zero-2:default-3:default-4:zero-5:zero-6:zero-7:zero.0.0&scmv2_num=0#!) |
 
 
 
