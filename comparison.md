@@ -29,10 +29,10 @@
 ## Outdoor Camera
 
 
-| Brand      | Price | 
-| :---        |    :----:   | 
-| Bosch      | 624 USD       |
-| Xiaomi   |  259 CNY        |
+| Brand      | Price |  Link  |
+| :---        |    :----:   | :----: |
+| Bosch      | 624 USD       | [Bosch Smart Home Eyes Outdoor Camera (CCTV with Recording Function, Compatible with Amazon Alexa)](https://www.amazon.com/Bosch-Smart-Home-F01U314889-Outdoor/dp/B06XXDWCGZ/ref=sr_1_7?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-7) |
+| Xiaomi   |  259 CNY        | [xiaovv户外云台摄像机 2K升级版](https://www.xiaomiyoupin.com/detail?gid=130270&spmref=YouPinPC.$SearchFilter$1.search_list.4.50883202&last_scmv2=3001.21.1:zero-2:default-3:default-4:zero-5:zero-6:zero-7:zero.0.0&scmv2_num=0#!) |
 
 
 ### Bosch
@@ -54,11 +54,11 @@
 
 
 
-| Brand      | Price | 
-| :---        |    :----:   | 
-| Bosch      | 83 USD       |
-| Xiaomi   |  399 CNY        |
-| Xiaomi   |  89 CNY        |
+| Brand      | Price |  Link  |
+| :---        |    :----:   | :----: |
+| Bosch      | 83 USD       | [Bosch Smart Home Motion Detector with app Function (Compatible with Apple Homekit)](https://www.amazon.com/Bosch-Smart-Home-8750000018-Detector/dp/B01MS6DQ8H/ref=sr_1_2?dchild=1&keywords=bosch%2Bsmart%2Bhome&qid=1621922963&sr=8-2&th=1) |
+| Xiaomi   |  399 CNY        |[绿米Aqara 高精度人体传感器](https://item.jd.com/10024066313112.html) |
+| Xiaomi   |  89 CNY        |[绿米Aqara 人体传感器](https://item.jd.com/27972917067.html) |
 
 
 
@@ -83,11 +83,11 @@
 ## Switch
 
 
-| Brand      | Price | 
-| :---        |    :----:   | 
-| Bosch      | 114 USD       |
-| Xiaomi   |  579 CNY        |
-| Xiaomi   |  539 CNY        |
+| Brand      | Price | Link |
+| :---        |    :----:   | :----: | 
+| Bosch      | 114 USD       | [Bosch Smart Home Universal Switch - Control The Bosch Smart Home System Without app or Smartphone](https://www.amazon.com/Bosch-Smart-Universal-Switch-8750000372/dp/B075QKF6T8/ref=sr_1_5?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-5) |
+| Xiaomi   |  579 CNY        | [绿米Aqara 智能墙壁开关](https://item.jd.com/10023338254126.html) |
+| Xiaomi   |  539 CNY        | [绿米Aqara 智能墙壁开关H1 Pro](https://item.jd.com/10020344135209.html) |
 
 
 
@@ -106,12 +106,12 @@
 
 ## Thermostat
 
-| Brand      | Price | 
-| :---        |    :----:   | 
-| Bosch      | 132 USD       |
-| Bosch      | 103 USD       |
-| Xiaomi   |  79 CNY        |
-| Xiaomi   |  899 CNY        |
+| Brand      | Price |  Link  |
+| :---        |    :----:   | :----: |
+| Bosch      | 132 USD       | [Bosch BCC100 Connected Control Smart Phone Wi-Fi Thermostat - Works with Alexa - Touch Screen](https://www.amazon.com/Bosch-BCC100-Connected-Control-Thermostat/dp/B073XHD8BB/ref=sr_1_3?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-3)|
+| Bosch      | 103 USD       | [Bosch Thermotechnology BCC50 Wi-Fi Thermostat-Works with Alexa and Google Assistant, All-in-One, Touch Screen, Safety Control, Smart Home, White](https://www.amazon.com/Bosch-Thermotechnology-Connected-BCC50-Thermostat-Compatible/dp/B07W6XVSGY/ref=sr_1_4?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-4)|
+| Xiaomi   |  79 CNY        |[绿米Aqara 温湿度传感器](https://item.jd.com/5273037.html) |
+| Xiaomi   |  899 CNY        |[绿米Aqara 智能场景面板开关S1](https://item.jd.com/10024063468634.html) |
 
 
 
