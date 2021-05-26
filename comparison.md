@@ -82,6 +82,7 @@
 
 - [绿米Aqara 温湿度传感器](https://item.jd.com/5273037.html)
 
+- [绿米Aqara 智能场景面板开关S1](https://item.jd.com/10024063468634.html)
 
 
 
