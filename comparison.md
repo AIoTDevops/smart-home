@@ -53,11 +53,21 @@
 
 ## Switch
 
-
+### Bosch
 - [Bosch Smart Home Universal Switch - Control The Bosch Smart Home System Without app or Smartphone](https://www.amazon.com/Bosch-Smart-Universal-Switch-8750000372/dp/B075QKF6T8/ref=sr_1_5?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-5)
 
 
 
+### Xiaomi Aqara
+
+- [绿米Aqara 网关M1S](https://item.jd.com/10022937509334.html)
+
+
+
+## Thermostat
+
+
+### Bosch
 
 
 
@@ -68,6 +78,9 @@
 
 
 
+### Xiaomi Aqara
+
+- [绿米Aqara 温湿度传感器](https://item.jd.com/5273037.html)
 
 
 
