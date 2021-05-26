@@ -110,7 +110,6 @@
 | :---        |    :----:   | :----: |
 | Bosch      | 132 USD       | [Bosch BCC100 Connected Control Smart Phone Wi-Fi Thermostat - Works with Alexa - Touch Screen](https://www.amazon.com/Bosch-BCC100-Connected-Control-Thermostat/dp/B073XHD8BB/ref=sr_1_3?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-3)|
 | Bosch      | 103 USD       | [Bosch Thermotechnology BCC50 Wi-Fi Thermostat-Works with Alexa and Google Assistant, All-in-One, Touch Screen, Safety Control, Smart Home, White](https://www.amazon.com/Bosch-Thermotechnology-Connected-BCC50-Thermostat-Compatible/dp/B07W6XVSGY/ref=sr_1_4?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-4)|
-| Xiaomi   |  79 CNY        |[绿米Aqara 温湿度传感器](https://item.jd.com/5273037.html) |
 | Xiaomi   |  899 CNY        |[绿米Aqara 智能场景面板开关S1](https://item.jd.com/10024063468634.html) |
 
 
@@ -130,7 +129,6 @@
 
 ### Xiaomi Aqara
 
-- [绿米Aqara 温湿度传感器](https://item.jd.com/5273037.html)
 
 - [绿米Aqara 智能场景面板开关S1](https://item.jd.com/10024063468634.html)
 
