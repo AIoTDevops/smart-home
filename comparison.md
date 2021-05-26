@@ -1,5 +1,11 @@
 ##  Indoor Camera
 
+Bosch | Xiaomi
+------------ | -------------
+ 220 GBP |  199 CNY
+ |  249 CNY
+
+
 ### Bosch
 - [Bosch Smart Home WiFi Indoor Camera (360° rotatable, CCTV with Recording Function, for Indoor use, can be Controlled via app/Mobile Phone - Compatible with Amazon Alexa)](https://www.amazon.com/Bosch-Smart-Home-8750000983-Indoor/dp/B07GYX7TNM/ref=sr_1_8?dchild=1&keywords=Bosch+Smart+Home&qid=1621923061&sr=8-8)
 
